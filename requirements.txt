@@ -1,0 +1,8 @@
+pandas
+pydriller
+tqdm
+requests
+matplotlib
+seaborn
+numpy
+scipy

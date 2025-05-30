@@ -1,0 +1,3 @@
+User,Copilot user,Author name,Author email,Date,Repository,Insertions,Deletions,Total lines,Files changed,Unit size (DMM),Complexity (DMM),Interface (DMM),Commits,Commit hash,Copilot period,Merge commit,Default branch,Org
+andrewyng,True,Andrew Ng,a_y_ng@yahoo.com,2024-06-30,aisuite,2,0,2,1,,,,1,6bd6adc55e24e3e59bc5cb3299eee649e15b92dc,after,False,True,Test
+andrewyng,True,Andrew Ng,ng@deeplearning.ai,2024-06-30,aisuite,1731,0,1731,1,,,,1,69957c9eda6a7c97c01b6676e40d675843360bf6,after,False,True,Test
